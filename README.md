@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-solvedcycle-sheet-1-solved
+<br>
+The following experiments shall be conducted using C in LINUX/UNIX.1. Write the C program for OSI layer2. Write a program to implement the following Encoding TechniquesNRZ, NRZ-I ,Manchester, 4B/5B3. Write a program for framing Techniques3.1 Character Count3.2 Bit Stuffing and Destuffing3.3 Byte Stuffing.and Destuffing4. Write a program for Flow control based on Sliding Window protocol4.1 Go Back N ARQ4.2 Selective repeat ARQ5. Write a program to implement CRC polynomials
